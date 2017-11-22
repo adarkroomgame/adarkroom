@@ -135,7 +135,7 @@
 
 			$('<span>')
 				.addClass('appStore menuBtn')
-				.text(_('get the app.'))
+				.text(_('get the android app.'))
 				.click(Engine.getApp)
 				.appendTo(menu);
 
